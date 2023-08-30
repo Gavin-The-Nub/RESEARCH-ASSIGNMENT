@@ -7,6 +7,8 @@
   text-decoration: none;
   list-style: none;
 }
+body{-webkit-user-select:none;-moz-user-select:-moz-none;
+-ms-user-select:none;user-select:none}
 p {
   font-size: 1em;
   text-align: justify;
